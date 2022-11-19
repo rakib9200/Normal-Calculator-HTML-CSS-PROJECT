@@ -1,0 +1,18 @@
+#clear{
+    width: 118px;
+    margin: auto;
+}
+
+.formstyle{
+    width: 128px;
+    height: 166px;
+    margin: auto;
+    border: 1px solid black;
+    
+}
+input{
+    width: 40px;
+    color: rgb(252, 53, 4);
+    background-color: rgb(73, 73, 73);
+    border-radius: 8px;
+}
